@@ -1,6 +1,6 @@
 [%General]
-author=Gabriel Perko-Engel
-comment=A dark Kvantum theme matching Jan Schröder's Yaru Colors. Forked from initial design by Tsu Jan.
+author=Oren Klopfer
+comment=A Kvantum theme for Rhino Linux's Unicorn Desktop. Forked from initial design by Gabriel Perko-Engel.
 alt_mnemonic=true
 left_tabs=false
 attach_active_tab=false
@@ -71,19 +71,19 @@ reduce_menu_opacity=0
 dark_titlebar=true
 
 [GeneralColors]
-window.color=#353535
-inactive.window.color=#353535
-base.color=#2d2d2d
-inactive.base.color=#303030
-alt.base.color=#323232
-inactive.alt.base.color=#353535
-button.color=#333333
-light.color=#5a5a5a
-mid.light.color=#555555
-dark.color=#171717
-mid.color=#3c3c3c
-highlight.color=#924d8b
-inactive.highlight.color=#924d8b
+window.color=#251F32
+inactive.window.color=#251F32
+base.color=#251F32
+inactive.base.color=#251F32
+alt.base.color=#251F32
+inactive.alt.base.color=#251F32
+button.color=#4B445B
+light.color=#4B445B
+mid.light.color=#3B3547
+dark.color=#302A3D
+mid.color=#3B3547
+highlight.color=#9235ff
+inactive.highlight.color=#9235ff
 text.color=white
 inactive.text.color=#ffffffc8
 window.text.color=white
@@ -92,8 +92,8 @@ button.text.color=white
 disabled.text.color=#A0A0A0
 tooltip.text.color=white
 highlight.text.color=white
-link.color=#1397c3
-link.visited.color=#924d8b
+link.color=#8b00e7
+link.visited.color=#8d7be4
 progress.indicator.text.color=white
 
 [Hacks]
@@ -449,7 +449,7 @@ frame.element=menuitem
 interior.element=menuitem
 indicator.element=menuitem
 text.normal.color=white
-text.focus.color=white
+text.focus.color=black
 text.shadow=false
 text.margin.top=0
 text.margin.bottom=0
